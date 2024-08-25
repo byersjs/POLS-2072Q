@@ -8,12 +8,11 @@ date: today
 
 Welcome to our course website! Here you can find links to everything you'll need this semester:
 
--   The course [syllabus](https://rawcdn.githack.com/byersjs/POLS-2072Q/f40101e72d3082cebc2235810c6d9ad4bca4f21f/Course_Materials/Syllabus/POLS-2072Q--Fall-2024-.html)
+-   The course [syllabus](https://byersjs.github.io/POLS-2072Q-Syllabus/)
 
 -   Submit assignments at our course [HuskyCT page](https://huskyct.uconn.edu) (mortarboard icon in the upper right).
 
 -   I will post code, data, and lecture notes on the course [GitHub repository](https://github.com/byersjs/POLS-2072Q) (the octocat icon in the upper right).
-
 
 # Course Description
 
@@ -23,29 +22,28 @@ Scholars in political science and in disciplines across the social sciences are 
 
 Together, we will strive for your individual and collective success in achieving the learning outcomes of this course. At the conclusion of this course, students will be able to:
 
-- Define and describe the varied nature of quantitative analysis in political science
+-   Define and describe the varied nature of quantitative analysis in political science
 
-- Understand each step of the data lifecycle, identify potential sources of statistical and human bias, and determine their implications on the scope of inference.
+-   Understand each step of the data lifecycle, identify potential sources of statistical and human bias, and determine their implications on the scope of inference.
 
-- “Think with data” by using statistical software to explore, analyze, visualize, and interpret nontrivial datasets with relevance and importance to the social sciences.
+-   "Think with data" by using statistical software to explore, analyze, visualize, and interpret nontrivial datasets with relevance and importance to the social sciences.
 
-- Identify and evaluate misuses, distortions, and misrepresentations of data and statistics.
+-   Identify and evaluate misuses, distortions, and misrepresentations of data and statistics.
 
-- Apply your statistical literacy to issues within political science.
+-   Apply your statistical literacy to issues within political science.
 
-- Communicate clearly and persuasively with data
-
+-   Communicate clearly and persuasively with data
 
 # Course Materials
 
 To maximize access to this class, we will use some textbooks, videos, and other resources, with a focus on the following:
 
-- Primary Text (DASS): Llaudet, Elena and Kosuke Imai. 2022. [Data Analysis for Social Science: A Friendly and Practical Introduction.](https://press.princeton.edu/books/paperback/9780691199436/data-analysis-for-social-science) Princeton University Press.
+-   Primary Text (DASS): Llaudet, Elena and Kosuke Imai. 2022. [Data Analysis for Social Science: A Friendly and Practical Introduction.](https://press.princeton.edu/books/paperback/9780691199436/data-analysis-for-social-science) Princeton University Press.
 
-- Primary Text (R4DS): Wickham, Hadley and Garrett Grolemund. 2016. [R for Data Science: Import Tidy, Transform, Visualize, and Model Data.](https://r4ds.had.co.nz/index.html) O'Reilly Media. This book is freely available online. It is also available in paperback, if you prefer a hard copy. Warning: some content and the numbering system differs between print and online versions; I will exclusively refer to the free online version.
+-   Primary Text (R4DS): Wickham, Hadley and Garrett Grolemund. 2016. [R for Data Science: Import Tidy, Transform, Visualize, and Model Data.](https://r4ds.had.co.nz/index.html) O'Reilly Media. This book is freely available online. It is also available in paperback, if you prefer a hard copy. Warning: some content and the numbering system differs between print and online versions; I will exclusively refer to the free online version.
 
 **Reference Texts** <br>
 
-- Reference Text (HOPR): Grolemund, Garrett. 2014. [Hands-On Programming with R: Write Your Own Functions and Simulations.](https://rstudio-education.github.io/hopr/) O'Reilly Media. This book is freely available online. It is also available in paperback, if you prefer a hard copy. Warning: some content and the numbering system differs between print and online versions; I will exclusively refer to the free online version.
+-   Reference Text (HOPR): Grolemund, Garrett. 2014. [Hands-On Programming with R: Write Your Own Functions and Simulations.](https://rstudio-education.github.io/hopr/) O'Reilly Media. This book is freely available online. It is also available in paperback, if you prefer a hard copy. Warning: some content and the numbering system differs between print and online versions; I will exclusively refer to the free online version.
 
-- Reference Text (DSB): Cetinkaya-Rundel, Mine. 2021. [Data Science in a Box.](https://datasciencebox.org/index.html) This book is freely available online.
+-   Reference Text (DSB): Cetinkaya-Rundel, Mine. 2021. [Data Science in a Box.](https://datasciencebox.org/index.html) This book is freely available online.
