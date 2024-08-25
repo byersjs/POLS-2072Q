@@ -8,7 +8,7 @@ date: today
 
 Welcome to our course website! Here you can find links to everything you'll need this semester:
 
--   The course [syllabus](htmlpreview.github.io/?https://github.com/byersjs/POLS-2072Q/blob/f40101e72d3082cebc2235810c6d9ad4bca4f21f/Course_Materials/Syllabus/POLS-2072Q--Fall-2024-.html)
+-   The course [syllabus](https://rawcdn.githack.com/byersjs/POLS-2072Q/f40101e72d3082cebc2235810c6d9ad4bca4f21f/Course_Materials/Syllabus/POLS-2072Q--Fall-2024-.html)
 
 -   Submit assignments at our course [HuskyCT page](https://huskyct.uconn.edu) (mortarboard icon in the upper right).
 
