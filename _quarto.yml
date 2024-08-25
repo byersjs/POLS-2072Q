@@ -17,7 +17,7 @@ website:
     right: 
       - href: index.qmd
         text: Home
-      - href: https://htmlpreview.github.io/https://github.com/byersjs/POLS-2072Q/tree/main/Course_Materials/Syllabus/POLS-2072Q--Fall-2024-.html
+      - href: htmlpreview.github.io/?https://github.com/byersjs/POLS-2072Q/blob/f40101e72d3082cebc2235810c6d9ad4bca4f21f/Course_Materials/Syllabus/POLS-2072Q--Fall-2024-.html
         text: "Syllabus"
       #- text: DASS Data
       #  menu: 
